@@ -8,19 +8,10 @@ In the website you can find information and implementations in multiple programm
 
 - Quick Sort
 - Merge Sort
-- Heap Sort
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
-- Gnome Sort
-- Shaker Sort
-- Odd Even Sort
-- Pancake Sort
-- Bitonic Sort
-- Radix Sort
-- Shell Sort
-- Comb Sort
-- Bogo Sort
+
 
 ## Custom Sort
 
